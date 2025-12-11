@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0011-container-with-most-water) |
+| [3819-count-covered-buildings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3819-count-covered-buildings) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3885-count-special-triplets) |
 ## Binary Search
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Hash Table
 |  |
 | ------- |
+| [3819-count-covered-buildings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3885-count-special-triplets) |
 ## Counting
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+## Sorting
+|  |
+| ------- |
+| [3819-count-covered-buildings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3819-count-covered-buildings) |
 <!---LeetCode Topics End-->
