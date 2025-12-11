@@ -1,8 +1,8 @@
 class Solution {
 public:
     int countCoveredBuildings(int n, vector<vector<int>>& buildings) {
-        unordered_map<int,vector<int>> col;
-        unordered_map<int,vector<int>> row;
+        unordered_map<int,vector<int>> col; // storing the y with all the x values  
+        unordered_map<int,vector<int>> row; 
         int m=buildings.size();
         for(int i=0;i<m;i++)
         {
