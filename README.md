@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2037-count-square-sum-triples](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2037-count-square-sum-triples) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [4100-complete-prime-number](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4100-complete-prime-number) |
 ## Enumeration
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2037-count-square-sum-triples) |
+| [4100-complete-prime-number](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4100-complete-prime-number) |
 ## Array
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
+## Number Theory
+|  |
+| ------- |
+| [4100-complete-prime-number](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4100-complete-prime-number) |
 <!---LeetCode Topics End-->
