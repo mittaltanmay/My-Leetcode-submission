@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2037-count-square-sum-triples) |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [4100-complete-prime-number](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4100-complete-prime-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String
 |  |
 | ------- |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
 ## Linked List
 |  |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1484-linked-list-in-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 <!---LeetCode Topics End-->
