@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [3334-apple-redistribution-into-boxes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3334-apple-redistribution-into-boxes) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
 | [3819-count-covered-buildings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3819-count-covered-buildings) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0011-container-with-most-water](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0011-container-with-most-water) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0992-delete-columns-to-make-sorted-ii) |
+| [3334-apple-redistribution-into-boxes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3334-apple-redistribution-into-boxes) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2213-find-all-people-with-secret](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2213-find-all-people-with-secret) |
+| [3334-apple-redistribution-into-boxes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3334-apple-redistribution-into-boxes) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
 | [3819-count-covered-buildings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3819-count-covered-buildings) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
