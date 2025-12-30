@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
 ## Linked List
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Breadth-First Search
 |  |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0010-regular-expression-matching) |
+## Prefix Sum
+|  |
+| ------- |
+| [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
 <!---LeetCode Topics End-->
