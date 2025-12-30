@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0011-container-with-most-water) |
+| [0376-wiggle-subsequence](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0376-wiggle-subsequence) |
 | [0598-range-addition-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0598-range-addition-ii) |
 | [0870-magic-squares-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0870-magic-squares-in-grid) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0992-delete-columns-to-make-sorted-ii) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0011-container-with-most-water) |
+| [0376-wiggle-subsequence](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0376-wiggle-subsequence) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3334-apple-redistribution-into-boxes) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Dynamic Programming
 |  |
 | ------- |
+| [0376-wiggle-subsequence](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0376-wiggle-subsequence) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
