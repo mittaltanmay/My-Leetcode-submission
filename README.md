@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1767-design-front-middle-back-queue](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1767-design-front-middle-back-queue) |
 | [1945-finding-the-users-active-minutes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1945-finding-the-users-active-minutes) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3334-apple-redistribution-into-boxes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0572-subtree-of-another-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1484-linked-list-in-binary-tree) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2213-find-all-people-with-secret) |
 ## Binary Tree
 |  |
@@ -147,10 +150,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Breadth-First Search
 |  |
 | ------- |
+| [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2213-find-all-people-with-secret) |
 ## Union Find
 |  |
 | ------- |
+| [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2213-find-all-people-with-secret](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2213-find-all-people-with-secret) |
 ## Graph
 |  |
@@ -161,6 +166,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0870-magic-squares-in-grid) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
 ## Backtracking
 |  |
 | ------- |
