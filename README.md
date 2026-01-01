@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0066-plus-one) |
 | [0598-range-addition-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0598-range-addition-ii) |
 | [0830-largest-triangle-area](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0870-magic-squares-in-grid) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0066-plus-one) |
 | [0376-wiggle-subsequence](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0376-wiggle-subsequence) |
 | [0598-range-addition-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0598-range-addition-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0720-longest-word-in-dictionary) |
