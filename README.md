@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3885-count-special-triplets](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3885-count-special-triplets) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
+| [4173-maximum-score-of-a-split](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4173-maximum-score-of-a-split) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [4173-maximum-score-of-a-split](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4173-maximum-score-of-a-split) |
 ## Geometry
 |  |
 | ------- |
