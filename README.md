@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2037-count-square-sum-triples](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2037-count-square-sum-triples) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [4100-complete-prime-number](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4100-complete-prime-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3334-apple-redistribution-into-boxes) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0830-largest-triangle-area) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Trie
 |  |
 | ------- |
