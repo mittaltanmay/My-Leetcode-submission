@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1031-add-to-array-form-of-integer) |
 | [1284-four-divisors](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1284-four-divisors) |
+| [1311-largest-magic-square](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1311-largest-magic-square) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1569-max-dot-product-of-two-subsequences) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0085-maximal-rectangle) |
 | [0870-magic-squares-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0870-magic-squares-in-grid) |
+| [1311-largest-magic-square](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1311-largest-magic-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-maximum-matrix-sum](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [1311-largest-magic-square](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1311-largest-magic-square) |
 | [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [4173-maximum-score-of-a-split](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4173-maximum-score-of-a-split) |
