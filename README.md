@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
 | [3763-separate-squares-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3763-separate-squares-i) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3819-count-covered-buildings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3819-count-covered-buildings) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3885-count-special-triplets) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1945-finding-the-users-active-minutes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1945-finding-the-users-active-minutes) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3405-count-the-number-of-special-characters-ii) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3819-count-covered-buildings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1484-linked-list-in-binary-tree) |
 | [1767-design-front-middle-back-queue](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1767-design-front-middle-back-queue) |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
 | ------- |
@@ -277,4 +281,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0085-maximal-rectangle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
