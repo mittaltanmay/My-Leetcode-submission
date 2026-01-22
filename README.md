@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3885-count-special-triplets](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
 | [4175-smallest-all-ones-multiple](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4175-smallest-all-ones-multiple) |
+| [4186-count-residue-prefixes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4186-count-residue-prefixes) |
 ## Counting
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
+| [4186-count-residue-prefixes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4186-count-residue-prefixes) |
 ## Linked List
 |  |
 | ------- |
