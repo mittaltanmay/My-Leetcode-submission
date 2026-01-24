@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1945-finding-the-users-active-minutes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1945-finding-the-users-active-minutes) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Counting
 |  |
 | ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3885-count-special-triplets](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3885-count-special-triplets) |
 ## Brainteaser
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0757-pyramid-transition-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0757-pyramid-transition-matrix) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1000-delete-columns-to-make-sorted-iii) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3405-count-the-number-of-special-characters-ii) |
@@ -309,4 +312,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
