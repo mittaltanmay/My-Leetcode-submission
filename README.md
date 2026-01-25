@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3214-maximize-area-of-square-hole-in-grid) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0720-longest-word-in-dictionary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0720-longest-word-in-dictionary) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2213-find-all-people-with-secret](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2213-find-all-people-with-secret) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3334-apple-redistribution-into-boxes) |
@@ -322,4 +324,5 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
