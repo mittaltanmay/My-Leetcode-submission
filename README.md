@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1031-add-to-array-form-of-integer) |
 | [1284-four-divisors](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1284-four-divisors) |
+| [1306-minimum-absolute-difference](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1311-largest-magic-square) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0720-longest-word-in-dictionary) |
+| [1306-minimum-absolute-difference](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1306-minimum-absolute-difference) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
