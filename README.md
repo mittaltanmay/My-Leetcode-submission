@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3819-count-covered-buildings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3819-count-covered-buildings) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [3885-count-special-triplets](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3885-count-special-triplets) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
 | [4129-number-of-centered-subarrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4129-number-of-centered-subarrays) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Breadth-First Search
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Backtracking
 |  |
 | ------- |
