@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3334-apple-redistribution-into-boxes) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
 | [4186-count-residue-prefixes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4186-count-residue-prefixes) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 ## Breadth-First Search
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0720-longest-word-in-dictionary) |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3238-minimum-cost-to-convert-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -333,4 +337,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Graph Theory
+|  |
+| ------- |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3238-minimum-cost-to-convert-string-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3238-minimum-cost-to-convert-string-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3238-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
