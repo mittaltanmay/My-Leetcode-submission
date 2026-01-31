@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1031-add-to-array-form-of-integer) |
+| [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
 | [1284-four-divisors](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1311-largest-magic-square) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0720-longest-word-in-dictionary) |
+| [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
 | [1306-minimum-absolute-difference](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1306-minimum-absolute-difference) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
 | [1311-largest-magic-square](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1983-maximum-population-year](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1983-maximum-population-year) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
