@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0376-wiggle-subsequence](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0376-wiggle-subsequence) |
 | [0598-range-addition-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0598-range-addition-ii) |
 | [0720-longest-word-in-dictionary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0720-longest-word-in-dictionary) |
+| [0731-my-calendar-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0731-my-calendar-ii) |
 | [0830-largest-triangle-area](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0870-magic-squares-in-grid) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0992-delete-columns-to-make-sorted-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
+| [0731-my-calendar-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0731-my-calendar-ii) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Design
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0731-my-calendar-ii) |
 | [1767-design-front-middle-back-queue](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1767-design-front-middle-back-queue) |
 ## Queue
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0731-my-calendar-ii) |
 | [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
 | [1311-largest-magic-square](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Ordered Set
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0731-my-calendar-ii) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
@@ -350,4 +355,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3238-minimum-cost-to-convert-string-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
