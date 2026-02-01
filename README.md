@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2037-count-square-sum-triples) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4100-complete-prime-number](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4100-complete-prime-number) |
 | [4129-number-of-centered-subarrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4129-number-of-centered-subarrays) |
 ## Array
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3334-apple-redistribution-into-boxes) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2213-find-all-people-with-secret](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2213-find-all-people-with-secret) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3334-apple-redistribution-into-boxes) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
 | [3819-count-covered-buildings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3819-count-covered-buildings) |
