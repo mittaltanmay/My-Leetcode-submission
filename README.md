@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3952-trionic-array-i) |
+| [3956-trionic-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3956-trionic-array-ii) |
 | [4129-number-of-centered-subarrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4129-number-of-centered-subarrays) |
 | [4173-maximum-score-of-a-split](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4173-maximum-score-of-a-split) |
 ## Binary Search
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3956-trionic-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3956-trionic-array-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
