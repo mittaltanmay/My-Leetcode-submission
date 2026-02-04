@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1983-maximum-population-year](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1983-maximum-population-year) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2055-describe-the-painting](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2055-describe-the-painting) |
 | [2089-maximum-matrix-sum](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1945-finding-the-users-active-minutes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1945-finding-the-users-active-minutes) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2055-describe-the-painting](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2055-describe-the-painting) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1306-minimum-absolute-difference](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1306-minimum-absolute-difference) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2055-describe-the-painting](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2055-describe-the-painting) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2213-find-all-people-with-secret](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2213-find-all-people-with-secret) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3214-maximize-area-of-square-hole-in-grid) |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1983-maximum-population-year](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1983-maximum-population-year) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2055-describe-the-painting](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2055-describe-the-painting) |
 | [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [4173-maximum-score-of-a-split](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4173-maximum-score-of-a-split) |
