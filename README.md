@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
 | [4100-complete-prime-number](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4100-complete-prime-number) |
+| [4122-final-element-after-subarray-deletions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4122-final-element-after-subarray-deletions) |
 | [4175-smallest-all-ones-multiple](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4175-smallest-all-ones-multiple) |
 ## Enumeration
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3956-trionic-array-ii) |
+| [4122-final-element-after-subarray-deletions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4122-final-element-after-subarray-deletions) |
 | [4129-number-of-centered-subarrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4129-number-of-centered-subarrays) |
 | [4173-maximum-score-of-a-split](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4173-maximum-score-of-a-split) |
 ## Binary Search
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3864-count-the-number-of-computer-unlocking-permutations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3864-count-the-number-of-computer-unlocking-permutations) |
+| [4122-final-element-after-subarray-deletions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4122-final-element-after-subarray-deletions) |
 ## Combinatorics
 |  |
 | ------- |
@@ -378,4 +381,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0731-my-calendar-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0732-my-calendar-iii) |
+## Game Theory
+|  |
+| ------- |
+| [4122-final-element-after-subarray-deletions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4122-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
