@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [4100-complete-prime-number](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4100-complete-prime-number) |
 | [4129-number-of-centered-subarrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4129-number-of-centered-subarrays) |
+| [4194-count-monobit-integers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4194-count-monobit-integers) |
 ## Array
 |  |
 | ------- |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0757-pyramid-transition-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0757-pyramid-transition-matrix) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3605-construct-the-minimum-bitwise-array-i) |
+| [4194-count-monobit-integers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4194-count-monobit-integers) |
 ## String Matching
 |  |
 | ------- |
