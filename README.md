@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3819-count-covered-buildings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
+| [4118-design-ride-sharing-system](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4118-design-ride-sharing-system) |
 | [4129-number-of-centered-subarrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4129-number-of-centered-subarrays) |
 | [4175-smallest-all-ones-multiple](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4175-smallest-all-ones-multiple) |
 | [4186-count-residue-prefixes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4186-count-residue-prefixes) |
@@ -300,14 +301,17 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0731-my-calendar-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [1767-design-front-middle-back-queue](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1767-design-front-middle-back-queue) |
+| [4118-design-ride-sharing-system](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4118-design-ride-sharing-system) |
 ## Queue
 |  |
 | ------- |
 | [1767-design-front-middle-back-queue](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1767-design-front-middle-back-queue) |
+| [4118-design-ride-sharing-system](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4118-design-ride-sharing-system) |
 ## Data Stream
 |  |
 | ------- |
 | [1767-design-front-middle-back-queue](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1767-design-front-middle-back-queue) |
+| [4118-design-ride-sharing-system](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4118-design-ride-sharing-system) |
 ## Recursion
 |  |
 | ------- |
