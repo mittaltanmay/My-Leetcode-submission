@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0572-subtree-of-another-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Depth-First Search
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0572-subtree-of-another-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Binary Tree
 |  |
 | ------- |
+| [0110-balanced-binary-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0110-balanced-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0572-subtree-of-another-tree) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
