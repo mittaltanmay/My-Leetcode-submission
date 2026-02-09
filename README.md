@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1499-maximum-performance-of-a-team](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1499-maximum-performance-of-a-team) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1767-design-front-middle-back-queue](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1767-design-front-middle-back-queue) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0376-wiggle-subsequence](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0376-wiggle-subsequence) |
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
+| [1499-maximum-performance-of-a-team](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1499-maximum-performance-of-a-team) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2089-maximum-matrix-sum](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2089-maximum-matrix-sum) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0720-longest-word-in-dictionary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0720-longest-word-in-dictionary) |
 | [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
 | [1306-minimum-absolute-difference](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1306-minimum-absolute-difference) |
+| [1499-maximum-performance-of-a-team](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1499-maximum-performance-of-a-team) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
+| [1499-maximum-performance-of-a-team](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1499-maximum-performance-of-a-team) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
