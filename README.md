@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
 | [3952-trionic-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3956-trionic-array-ii) |
+| [4045-longest-balanced-subarray-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4045-longest-balanced-subarray-i) |
 | [4122-final-element-after-subarray-deletions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4122-final-element-after-subarray-deletions) |
 | [4129-number-of-centered-subarrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4129-number-of-centered-subarrays) |
 | [4173-maximum-score-of-a-split](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4173-maximum-score-of-a-split) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0004-median-of-two-sorted-arrays) |
+| [4045-longest-balanced-subarray-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4045-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3819-count-covered-buildings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3819-count-covered-buildings) |
 | [3885-count-special-triplets](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3885-count-special-triplets) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
+| [4045-longest-balanced-subarray-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4045-longest-balanced-subarray-i) |
 | [4118-design-ride-sharing-system](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4118-design-ride-sharing-system) |
 | [4129-number-of-centered-subarrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4129-number-of-centered-subarrays) |
 | [4175-smallest-all-ones-multiple](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4175-smallest-all-ones-multiple) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2055-describe-the-painting](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2055-describe-the-painting) |
 | [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [4045-longest-balanced-subarray-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4045-longest-balanced-subarray-i) |
 | [4173-maximum-score-of-a-split](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4173-maximum-score-of-a-split) |
 ## Geometry
 |  |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0731-my-calendar-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0732-my-calendar-iii) |
+| [4045-longest-balanced-subarray-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4045-longest-balanced-subarray-i) |
 ## Game Theory
 |  |
 | ------- |
