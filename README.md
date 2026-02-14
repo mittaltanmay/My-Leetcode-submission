@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
 | [4045-longest-balanced-subarray-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4047-longest-balanced-subarray-ii) |
+| [4056-longest-balanced-substring-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4056-longest-balanced-substring-ii) |
 | [4118-design-ride-sharing-system](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4118-design-ride-sharing-system) |
 | [4129-number-of-centered-subarrays](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4129-number-of-centered-subarrays) |
 | [4175-smallest-all-ones-multiple](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4175-smallest-all-ones-multiple) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3405-count-the-number-of-special-characters-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3405-count-the-number-of-special-characters-ii) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
+| [4056-longest-balanced-substring-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4056-longest-balanced-substring-ii) |
 | [4186-count-residue-prefixes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4186-count-residue-prefixes) |
 ## Linked List
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
 | [4045-longest-balanced-subarray-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4047-longest-balanced-subarray-ii) |
+| [4056-longest-balanced-substring-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4056-longest-balanced-substring-ii) |
 | [4173-maximum-score-of-a-split](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4173-maximum-score-of-a-split) |
 ## Geometry
 |  |
