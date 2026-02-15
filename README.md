@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0067-add-binary) |
 | [0598-range-addition-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0598-range-addition-ii) |
 | [0830-largest-triangle-area](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0870-magic-squares-in-grid) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0067-add-binary) |
 | [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
 | [3651-transformed-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3651-transformed-array) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0010-regular-expression-matching) |
+| [0067-add-binary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0067-add-binary) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0720-longest-word-in-dictionary) |
 | [0757-pyramid-transition-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0757-pyramid-transition-matrix) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0067-add-binary) |
 | [0757-pyramid-transition-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0757-pyramid-transition-matrix) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [4194-count-monobit-integers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4194-count-monobit-integers) |
