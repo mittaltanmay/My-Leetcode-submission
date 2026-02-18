@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0067-add-binary) |
+| [0693-binary-number-with-alternating-bits](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0693-binary-number-with-alternating-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0757-pyramid-transition-matrix) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [4194-count-monobit-integers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4194-count-monobit-integers) |
