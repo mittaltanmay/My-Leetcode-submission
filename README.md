@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0011-container-with-most-water) |
+| [0696-count-binary-substrings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0696-count-binary-substrings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Greedy
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0010-regular-expression-matching](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0067-add-binary) |
+| [0696-count-binary-substrings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0720-longest-word-in-dictionary) |
 | [0757-pyramid-transition-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0757-pyramid-transition-matrix) |
