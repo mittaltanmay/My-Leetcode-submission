@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1031-add-to-array-form-of-integer) |
 | [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
+| [1206-corporate-flight-bookings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1206-corporate-flight-bookings) |
 | [1284-four-divisors](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1284-four-divisors) |
 | [1306-minimum-absolute-difference](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1311-largest-magic-square) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0731-my-calendar-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0732-my-calendar-iii) |
 | [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
+| [1206-corporate-flight-bookings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1206-corporate-flight-bookings) |
 | [1311-largest-magic-square](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
