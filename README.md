@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0066-plus-one](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0067-add-binary) |
 | [0598-range-addition-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0598-range-addition-ii) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0830-largest-triangle-area) |
 | [0870-magic-squares-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0870-magic-squares-in-grid) |
 | [1031-add-to-array-form-of-integer](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1031-add-to-array-form-of-integer) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0067-add-binary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0067-add-binary) |
 | [0693-binary-number-with-alternating-bits](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0693-binary-number-with-alternating-bits) |
 | [0757-pyramid-transition-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0757-pyramid-transition-matrix) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [4194-count-monobit-integers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4194-count-monobit-integers) |
 ## String Matching
