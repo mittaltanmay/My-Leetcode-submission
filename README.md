@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0870-magic-squares-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0870-magic-squares-in-grid) |
 | [1031-add-to-array-form-of-integer](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1031-add-to-array-form-of-integer) |
 | [1284-four-divisors](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1284-four-divisors) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2037-count-square-sum-triples](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2037-count-square-sum-triples) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0067-add-binary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0067-add-binary) |
 | [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [3651-transformed-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3651-transformed-array) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0757-pyramid-transition-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0757-pyramid-transition-matrix) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0899-binary-gap) |
+| [1800-concatenation-of-consecutive-binary-numbers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [4194-count-monobit-integers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4194-count-monobit-integers) |
 ## String Matching
