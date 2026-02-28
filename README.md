@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3889-minimum-cost-path-with-teleportations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
 | [3934-coupon-code-validator](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3934-coupon-code-validator) |
+| [3938-twisted-mirror-path-count](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3938-twisted-mirror-path-count) |
 | [3952-trionic-array-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3956-trionic-array-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4045-longest-balanced-subarray-i) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3892-best-time-to-buy-and-sell-stock-v](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3892-best-time-to-buy-and-sell-stock-v) |
+| [3938-twisted-mirror-path-count](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3938-twisted-mirror-path-count) |
 | [3956-trionic-array-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3956-trionic-array-ii) |
 ## Breadth-First Search
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2089-maximum-matrix-sum](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3938-twisted-mirror-path-count](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3938-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
