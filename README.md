@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1031-add-to-array-form-of-integer](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1031-add-to-array-form-of-integer) |
 | [1284-four-divisors](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1284-four-divisors) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
+| [1808-stone-game-vii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1808-stone-game-vii) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2037-count-square-sum-triples](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2037-count-square-sum-triples) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1767-design-front-middle-back-queue](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1767-design-front-middle-back-queue) |
+| [1808-stone-game-vii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1808-stone-game-vii) |
 | [1945-finding-the-users-active-minutes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1945-finding-the-users-active-minutes) |
 | [1983-maximum-population-year](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1983-maximum-population-year) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0815-champagne-tower](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0815-champagne-tower) |
 | [1000-delete-columns-to-make-sorted-iii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1000-delete-columns-to-make-sorted-iii) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1808-stone-game-vii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1808-stone-game-vii) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2251-number-of-ways-to-divide-a-long-corridor](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2251-number-of-ways-to-divide-a-long-corridor) |
 | [2569-number-of-beautiful-partitions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2569-number-of-beautiful-partitions) |
@@ -434,5 +437,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Game Theory
 |  |
 | ------- |
+| [1808-stone-game-vii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1808-stone-game-vii) |
 | [4122-final-element-after-subarray-deletions](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/4122-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
