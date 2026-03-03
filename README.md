@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1499-maximum-performance-of-a-team](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1499-maximum-performance-of-a-team) |
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1569-max-dot-product-of-two-subsequences) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1767-design-front-middle-back-queue](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1767-design-front-middle-back-queue) |
 | [1808-stone-game-vii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1808-stone-game-vii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0992-delete-columns-to-make-sorted-ii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0992-delete-columns-to-make-sorted-ii) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1499-maximum-performance-of-a-team](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1499-maximum-performance-of-a-team) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0870-magic-squares-in-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0870-magic-squares-in-grid) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1945-finding-the-users-active-minutes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1945-finding-the-users-active-minutes) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2055-describe-the-painting](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2055-describe-the-painting) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1206-corporate-flight-bookings](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1206-corporate-flight-bookings) |
 | [1311-largest-magic-square](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1983-maximum-population-year](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1983-maximum-population-year) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
