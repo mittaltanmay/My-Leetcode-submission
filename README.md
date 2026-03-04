@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1569-max-dot-product-of-two-subsequences](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1767-design-front-middle-back-queue](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1767-design-front-middle-back-queue) |
 | [1808-stone-game-vii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1808-stone-game-vii) |
 | [1945-finding-the-users-active-minutes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1945-finding-the-users-active-minutes) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1311-largest-magic-square](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1311-largest-magic-square) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1704-special-positions-in-a-binary-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2089-maximum-matrix-sum](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2089-maximum-matrix-sum) |
 | [2101-last-day-where-you-can-still-cross](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/2101-last-day-where-you-can-still-cross) |
