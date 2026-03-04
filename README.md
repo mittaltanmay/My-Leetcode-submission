@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1649-maximum-number-of-non-overlapping-subarrays-with-sum-equals-target) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1705-count-unhappy-friends](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1705-count-unhappy-friends) |
 | [1767-design-front-middle-back-queue](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1767-design-front-middle-back-queue) |
 | [1808-stone-game-vii](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1808-stone-game-vii) |
 | [1945-finding-the-users-active-minutes](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1945-finding-the-users-active-minutes) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0067-add-binary](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/0067-add-binary) |
 | [1184-car-pooling](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1184-car-pooling) |
+| [1705-count-unhappy-friends](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1705-count-unhappy-friends) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [3651-transformed-array](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3651-transformed-array) |
 | [3721-count-mentions-per-user](https://github.com/mittaltanmay/My-Leetcode-submission/tree/master/3721-count-mentions-per-user) |
